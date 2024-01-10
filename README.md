@@ -1,7 +1,13 @@
 <div align="center">
 
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+I am Hoang Long from Ho Chi Minh City, Vietnam, a Fullstack Web Developer and DevOps Engineer wannabe (maybe in 2024). 
+
+<h3>Below is my social contact</h3>
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/long-nguy%E1%BB%85n-tr%E1%BA%A7n-ho%C3%A0ng-18332b200/)) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ngytrhoanglong61@gmail.com?subject=Hello%20Long,%20From%20Github)
 
