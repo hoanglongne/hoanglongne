@@ -16,7 +16,7 @@ I am Hoang Long from Ho Chi Minh City, Vietnam, a Fullstack Web Developer and De
 - 🔭 I’m currently a freelancer working at Fiverr and my incubated e-com DApp.
 - 🌱 I’m passionate about DevOps stuffs and Web3 Development.
 - 📝 I’m aiming to creating new things (web, app or small project) every month from Jan 2024 and contributing in at least 4 open source project in the same year.
-- 🧑🏻‍💻 I'm trying to be more professional this year and make me more attractive to employers.
+- 🧑🏻‍💻 I'm trying to be more professional this year and raise some new projects to make me more attractive to employers.
 - ⚡ Somgthing to know about me: I like to sing and want to start a band some day, I love playing AoE and always think about new startup projects every weekend (but I still can't handle them now due to lack of experience and skill)
 
 <div align="center">
